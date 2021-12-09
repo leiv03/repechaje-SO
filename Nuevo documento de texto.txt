@@ -1,0 +1,10 @@
+monitoreo
+	-uso de disco
+	-uso de cpu
+	-15 logueados
+	-servicios
+
+instalaciones
+	-php
+	-mysql
+	-ssh
