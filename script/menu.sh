@@ -1,7 +1,5 @@
 #!/bin/bash 
-
 option=0
-
 while [ $option -ne 4 ]
 
 do
